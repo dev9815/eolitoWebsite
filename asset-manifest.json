@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/eolitoWebsite/static/css/main.b07a76b3.css",
-    "main.js": "/eolitoWebsite/static/js/main.a10e0ec2.js",
+    "main.js": "/eolitoWebsite/static/js/main.997182df.js",
     "static/js/787.44e022fc.chunk.js": "/eolitoWebsite/static/js/787.44e022fc.chunk.js",
     "static/media/eolito.mp4": "/eolitoWebsite/static/media/eolito.7d33ac6bb34776eafb3f.mp4",
     "static/media/ITC-Avant-Garde-Gothic-Medium-Oblique.otf": "/eolitoWebsite/static/media/ITC-Avant-Garde-Gothic-Medium-Oblique.7324b43a7f1609ff8486.otf",
     "static/media/homeLogo.svg": "/eolitoWebsite/static/media/homeLogo.4fc990c684aecd9c0e67.svg",
     "index.html": "/eolitoWebsite/index.html",
     "main.b07a76b3.css.map": "/eolitoWebsite/static/css/main.b07a76b3.css.map",
-    "main.a10e0ec2.js.map": "/eolitoWebsite/static/js/main.a10e0ec2.js.map",
+    "main.997182df.js.map": "/eolitoWebsite/static/js/main.997182df.js.map",
     "787.44e022fc.chunk.js.map": "/eolitoWebsite/static/js/787.44e022fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b07a76b3.css",
-    "static/js/main.a10e0ec2.js"
+    "static/js/main.997182df.js"
   ]
 }
