@@ -2,15 +2,6 @@
   visibility: hidden;
 }
 
-.gallery-cell {
-  width: 48%;
-  margin-right: 60px;
-}
-
-.gallery{
-  margin-top: 150px !important;
-}
-
 .gallery-img{
   border: 1px solid black;
   background-repeat: no-repeat !important;
@@ -32,6 +23,15 @@
     font-family: Arial;
   }
 
+  .gallery-cell {
+    width: 48%;
+    margin-right: 60px;
+  }
+  
+  .gallery{
+    margin-top: 150px !important;
+  }
+  
   .img-height{
     height: 500px !important;
   }
@@ -58,9 +58,17 @@
   .text-description{
     font-family: Arial;
   }
+  .gallery-cell {
+    width: 47%;
+    margin-right: 60px;
+  }
+  
+  .gallery{
+    margin-top: 150px !important;
+  }
 
   .img-height{
-    height: 400px !important;
+    height: 600px !important;
   }
   
   .team-height{
