@@ -75,17 +75,17 @@ function revealRight() {
   
   window.addEventListener("scroll", revealLeft);
 
-function Team(props) {
-  window.location.reload(false); 
+function Team() {
+
   window.scrollTo(0,0);
   return (
       <>
-      <div className='content-bg'>
+      <div className='content-bg' onLoad={()=>{window.scrollTo(0,0);}}>
       <h2 style={{position:'fixed', marginTop:'-135px', marginLeft: '1em', cursor:'pointer'}} className='goodFont' onClick={()=> window.location.href= "./"}>
         <Image className = 'rotating' style={{width:'80px', height:'80px'}} src={process.env.PUBLIC_URL + `/Imgs//logo.svg`} />
       </h2>
 
-      <div class="gallery js-flickity" data-flickity-options='{ "wrapAround": true }'>
+      <div class="gallery js-flickity"onLoad={()=>{window.location.reload(true)}} data-flickity-options='{ "wrapAround": true }'>
         <div class="gallery-cell">
           <Image style={{}} className='img-height' src = {process.env.PUBLIC_URL + '/Imgs/team6.png'} />
         </div>
