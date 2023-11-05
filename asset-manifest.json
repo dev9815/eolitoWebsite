@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eolitoWebsite/static/css/main.6991465a.css",
-    "main.js": "/eolitoWebsite/static/js/main.48674b64.js",
+    "main.js": "/eolitoWebsite/static/js/main.fcb662f9.js",
     "static/js/787.44e022fc.chunk.js": "/eolitoWebsite/static/js/787.44e022fc.chunk.js",
     "static/media/eolito.mp4": "/eolitoWebsite/static/media/eolito.7d33ac6bb34776eafb3f.mp4",
     "static/media/team3.png": "/eolitoWebsite/static/media/team3.a097415cc477464df103.png",
@@ -9,11 +9,11 @@
     "static/media/homeLogo.svg": "/eolitoWebsite/static/media/homeLogo.4fc990c684aecd9c0e67.svg",
     "index.html": "/eolitoWebsite/index.html",
     "main.6991465a.css.map": "/eolitoWebsite/static/css/main.6991465a.css.map",
-    "main.48674b64.js.map": "/eolitoWebsite/static/js/main.48674b64.js.map",
+    "main.fcb662f9.js.map": "/eolitoWebsite/static/js/main.fcb662f9.js.map",
     "787.44e022fc.chunk.js.map": "/eolitoWebsite/static/js/787.44e022fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6991465a.css",
-    "static/js/main.48674b64.js"
+    "static/js/main.fcb662f9.js"
   ]
 }
