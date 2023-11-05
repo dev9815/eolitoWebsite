@@ -76,7 +76,7 @@ function revealRight() {
   window.addEventListener("scroll", revealLeft);
 
 function Team(props) {
-  window.location.reload(true); 
+  window.location.reload(false); 
   window.scrollTo(0,0);
   return (
       <>
